@@ -23,7 +23,6 @@
                     <li><a class="sidebar-sub-toggle"><i class="ti-layout-grid4-alt"></i> Inventory <span class="sidebar-collapse-icon ti-angle-down"></span></a>
                         <ul>
                             <li><a href="php/inventoryStatus.php">Inventory Status</a></li>
-                            <li><a href="php/addToInventory.php">Add To Inventory</a></li>
                         </ul>
                     </li>
                     <li><a class="sidebar-sub-toggle"><i class="ti-files"></i> Invoice <span class="sidebar-collapse-icon ti-angle-down"></span></a>

@@ -72,7 +72,7 @@ if (isset($_POST['product-name']) && $_POST['product-name'] != "") {
 
     <title>Admin UI</title>
 
-    <base href="http://localhost/motor-part-shop-software/src/admin/">
+    <base href="https://motor-parts-shop.herokuapp.com/admin/">
 
     <!-- ================= Favicon ================== -->
     <!-- Standard -->

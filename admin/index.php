@@ -128,7 +128,7 @@ if (isset($_GET['yesdelete'])) {
 
     <title>Admin UI</title>
 
-    <base href="http://localhost/motor-part-shop-software/src/admin/">
+    <base href="https://motor-parts-shop.herokuapp.com/admin/">
 
     <!-- ================= Favicon ================== -->
     <!-- Standard -->

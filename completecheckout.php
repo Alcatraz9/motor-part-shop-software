@@ -51,7 +51,7 @@ if (!empty($_GET['placeOrder'])) {
     <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300,300i,400,400i,700,700i" rel="stylesheet">
 
 
-    <base href="http://localhost/motor-part-shop-software/src/">
+    <base href="https://motor-parts-shop.herokuapp.com/">
 
 
     <!-- Stylesheets -->
